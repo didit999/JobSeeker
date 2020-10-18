@@ -16,7 +16,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64443c96-7171-4dca-9e47-a2b9895d2f84" name="Default Changelist" comment="" />
+    <list default="true" id="64443c96-7171-4dca-9e47-a2b9895d2f84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602985146541</updated>
       <workItem from="1602985147605" duration="971000" />
-      <workItem from="1603018226118" duration="9339000" />
+      <workItem from="1603018226118" duration="10683000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit symfony">
       <created>1602985312204</created>
@@ -205,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603034035932</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ci: min version php">
+      <created>1603034480736</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603034480736</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,10 +257,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="ci: min version php" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="713" y="45" width="912" height="904" key="CommitChangelistDialog2" timestamp="1603034035892">
+    <state x="713" y="45" width="912" height="904" key="CommitChangelistDialog2" timestamp="1603034480703">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state x="713" y="45" width="912" height="904" key="CommitChangelistDialog2/0.27.1920.1010@0.27.1920.1010" timestamp="1603034035892" />
+    <state x="713" y="45" width="912" height="904" key="CommitChangelistDialog2/0.27.1920.1010@0.27.1920.1010" timestamp="1603034480703" />
     <state x="449" y="166" key="SettingsEditor" timestamp="1603020431089">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
@@ -259,17 +269,17 @@
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
     <state x="555" y="267" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.1010@0.27.1920.1010" timestamp="1602985775321" />
-    <state x="651" y="139" width="618" height="783" key="find.popup" timestamp="1603031609950">
+    <state x="651" y="139" width="923" height="783" key="find.popup" timestamp="1603034771194">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state x="651" y="139" width="618" height="783" key="find.popup/0.27.1920.1010@0.27.1920.1010" timestamp="1603031609950" />
+    <state x="651" y="139" width="923" height="783" key="find.popup/0.27.1920.1010@0.27.1920.1010" timestamp="1603034771194" />
     <state x="689" y="455" width="531" height="151" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1603031518419">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
     <state x="689" y="455" width="531" height="151" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.27.1920.1010@0.27.1920.1010" timestamp="1603031518419" />
-    <state x="618" y="358" width="672" height="678" key="search.everywhere.popup" timestamp="1603032545392">
+    <state x="618" y="358" width="672" height="678" key="search.everywhere.popup" timestamp="1603034794833">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state x="618" y="358" width="672" height="678" key="search.everywhere.popup/0.27.1920.1010@0.27.1920.1010" timestamp="1603032545392" />
+    <state x="618" y="358" width="672" height="678" key="search.everywhere.popup/0.27.1920.1010@0.27.1920.1010" timestamp="1603034794833" />
   </component>
 </project>
