@@ -16,10 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64443c96-7171-4dca-9e47-a2b9895d2f84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="64443c96-7171-4dca-9e47-a2b9895d2f84" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,7 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602985146541</updated>
       <workItem from="1602985147605" duration="971000" />
-      <workItem from="1603018226118" duration="10683000" />
+      <workItem from="1603018226118" duration="11047000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit symfony">
       <created>1602985312204</created>
@@ -215,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603034480736</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ci: behat">
+      <created>1603044198895</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603044198895</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,13 +258,14 @@
     <MESSAGE value="initial commit symfony" />
     <MESSAGE value="ci: set up CI&#10;&#10;*Github aciton&#10;* Install dependencies : php code sniffer, behat, phpunit, dama doctrine test bundle &#10;* Configure behat&#10;* Configure php code sniffer&#10;* Configure phpunit" />
     <MESSAGE value="ci: min version php" />
-    <option name="LAST_COMMIT_MESSAGE" value="ci: min version php" />
+    <MESSAGE value="ci: behat" />
+    <option name="LAST_COMMIT_MESSAGE" value="ci: behat" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="713" y="45" width="912" height="904" key="CommitChangelistDialog2" timestamp="1603034480703">
+    <state x="713" y="45" width="912" height="904" key="CommitChangelistDialog2" timestamp="1603044198862">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state x="713" y="45" width="912" height="904" key="CommitChangelistDialog2/0.27.1920.1010@0.27.1920.1010" timestamp="1603034480703" />
+    <state x="713" y="45" width="912" height="904" key="CommitChangelistDialog2/0.27.1920.1010@0.27.1920.1010" timestamp="1603044198862" />
     <state x="449" y="166" key="SettingsEditor" timestamp="1603020431089">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
