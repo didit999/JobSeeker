@@ -1,0 +1,12 @@
+default:
+  suites:
+    register:
+      contexts:
+        - 'App\Features\RegisterContext'
+      paths:
+        - '%paths.base%/features/register.feature'
+    login:
+      contexts:
+        - 'App\Features\LoginContext'
+      paths:
+        - '%paths.base%/features/login.feature'
